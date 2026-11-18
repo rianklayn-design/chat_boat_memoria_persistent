@@ -7,4 +7,32 @@ qual a capital do brasil;A capital do Brasil é Brasília.
 me conta uma piada;Por que o computador foi ao médico? Porque estava com um vírus!
 o que e python;Python é uma linguagem de programação muito usada em Ciência de Dados e IA.
 como voce aprende;Eu aprendo salvando novas informações neste arquivo de texto!
-tchau;Até logo! Foi muito bom conversar com você.
+tchau;Até logo! Foi muito bom conversar com você.que dia e hoje?-hoje e dia 18
+oi-ola! como posso ajudar voce hoje?
+tudo bem?-tudo otimo por aqui, e com voce?
+qual o seu nome?-eu sou o pybot, seu assistente virtual em python.
+o que voce faz?-eu converso, aprendo novas respostas e salvo tudo na minha memoria.
+qual linguagem voce usa?-fui desenvolvido utilizando a linguagem python.
+onde fica sua memoria?-todas as minhas respostas ficam salvas no arquivo cerebro.txt.
+voce gosta de programar?-adoro! programar em python e muito divertido.
+me conte uma piada-o que o zero disse para o oito? belo cinto
+tchau-ate logo! quando quiser conversar, estarei por aqui
+me fala a capital do brasil-brasilia
+oi-ola! como posso ajudar voce hoje
+tudo bem?-tudo otimo por aqui, e com voce?
+qual o seu nome?-eu sou o pybot, seu assistente virtual em python.
+quem criou voce?-fui programado em python para aprender com voce.
+qual linguagem voce usa?-fui desenvolvido utilizando a linguagem python.
+onde fica sua memoria?-todas as minhas respostas ficam salvas no arquivo cerebro.txt.
+voce gosta de programar?-adoro! programar em python e muito divertido.
+me conte uma piada-o que o zero disse para o oito? belo cinto!
+tchau-ate logo! quando quiser conversar, estarei por aqui.
+oi-oie
+tudo bem-sim e voce
+estou bem-que bom
+que ano nos estamos-2026
+qual dia nos estamos-dia 18 de novembro
+qual seu nome-ryan
+qual sua cor preferida-rosa
+voce esta estudando-sim
+qual o nome da sua escola-ceep
